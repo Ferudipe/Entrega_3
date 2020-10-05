@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="bienvenido">Bienvenido</string>
-    <string name="entrar">Entrar</string>
-    <string name="entrar">Entrar</string>
+    <string name="entrar">Enter</string>
     <string name="imagen">Imagen</string>
+    <string name="bienvenido">Welcome</string>
 </resources>
